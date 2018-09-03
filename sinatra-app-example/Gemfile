@@ -1,0 +1,13 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+#git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+
+gem 'sinatra'
+gem 'sinatra-gem', :path => "../"
+# gem 'sinatra-gem', :path => "/home/stbn/Developer/repos/sinatra-gem"
+# gem 'sinatra-gem', :source => "file://home/stbn/Developer/repos/sinatra-gem"
+# gem 'sinatra-gem', :path => 'vendor/bundle/ruby/2.4.0/gems/sinatra-gem-0.1.0'
+# gem 'spree', :path => "~/Projects/gems/spree"
