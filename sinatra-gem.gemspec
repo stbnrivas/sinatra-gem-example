@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{a simple gem of example}
   spec.description   = %q{all the before and some things more}
-  spec.homepage      = "https://github.com/stbnrivas/sinatra-gem"
+  spec.homepage      = ""
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.

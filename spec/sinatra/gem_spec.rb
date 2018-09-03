@@ -1,10 +1,10 @@
+#require "sinatra/gem"
+
 RSpec.describe Sinatra::Gem do
   it "has a version number" do
     expect(Sinatra::Gem::VERSION).not_to be nil
   end
 end
-
-
 
 
 RSpec.describe Sinatra::Gem do  
